@@ -1,0 +1,16 @@
+#serchfield{
+    border-radius: 30px;
+}
+/* #countries{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+   
+} */
+.country{
+    background-color: bisque;
+    border: 2px solid aqua;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+}
